@@ -1,0 +1,21 @@
+{
+  "name": "mysql_kwik_e_mart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customer.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davevish/mysql_kwik_e_mart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davevish/mysql_kwik_e_mart/issues"
+  },
+  "homepage": "https://github.com/davevish/mysql_kwik_e_mart#readme"
+}
