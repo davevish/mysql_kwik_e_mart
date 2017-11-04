@@ -1,7 +1,6 @@
 var mysql = require('mysql');
 var inquirer = require('inquirer');
 var Table = require('cli-table');
-
 var connection = mysql.createConnection({
 	host: "localhost",
 	port: 3306,
@@ -17,7 +16,6 @@ function displayAll() {
 			head: ['Item ID', 'Product Name', 'Category', 'Price', 'Quantity'],
 			colWidths: [10, 30, 18, 10, 14]
 		});
-
 		for (i = 0; i < response.length; i++) {
 			theDisplayTable.push(
 				[response[i].ItemID, response[i].ProductName, response[i].DepartmentName, response[i].Price, response[i].StockQuantity]
@@ -32,20 +30,17 @@ function inquireForUpdates() {
 	inquirer.prompt([{
 		name: "action",
 		type: "list",
-		message: "What would you like to do?",
+		message: "Choose an option below to manage your store:",
 		choices: ["Restock Inventory", "Add New Product", "Remove An Existing Product"]
 	}]).then(function(answers) {
-		//switch statement for manager functions
-		switch (answers.action) {
 
+		switch (answers.action) {
 			case 'Restock Inventory':
 				restockRequest();
 				break;
-
 			case 'Add New Product':
 				addRequest();
 				break;
-
 			case 'Remove An Existing Product':
 				removeRequest();
 				break;
@@ -64,7 +59,6 @@ function restockRequest() {
 			type: 'input',
 			message: "How many would you like to add?"
 		},
-
 	]).then(function(answers) {
 		var quantityAdded = answers.Quantity;
 		var IDOfProduct = answers.ID;
@@ -83,33 +77,26 @@ function restockDatabase(id, quant) {
 function addRequest() {
 	inquirer.prompt([
 		{
-			name: "ProductID",
+			name: "Name",
 			type: "input",
-			message: "Give the product an ID Number"
+			message: "What is the name of the item you wish to stock?"
 		},
 		{
-			name: "ProductName",
-			type: "input",
-			message: "What item do you want to restock?"
-		},
-		{
-			name: 'DepartmentName',
+			name: 'Category',
 			type: 'input',
-			message: "What is the product category?"
+			message: "What is the category for this product?"
 		},
 		{
 			name: 'Price',
 			type: 'input',
-			message: "Price?"
+			message: "How much would you like this to cost?"
 		},
 		{
-			name: 'StockQuantity',
+			name: 'Quantity',
 			type: 'input',
-			message: "Quantity?"
+			message: "How many would you like to add?"
 		},
-
 	]).then(function(answers){
-		var productID = answers.ItemID;
 		var name = answers.Name;
 		var category = answers.Category;
 		var price = answers.Price;
@@ -119,7 +106,7 @@ function addRequest() {
 };
 
 function buildNewItem(name,category,price,quantity){
-	connection.query('INSERT INTO Products (ItemId,ProductName,DepartmentName,Price,StockQuantity) VALUES("'ItemID' + ' + ProductName + '","' + DepartmentName + '",' + Price + ',' + StockQuantity +  ')');
+	connection.query('INSERT INTO Products (ProductName,DepartmentName,Price,StockQuantity) VALUES("' + name + '","' + category + '",' + price + ',' + quantity +  ')');
 	displayAll();
 };
 
@@ -135,7 +122,7 @@ function removeRequest(){
 };
 
 function removeFromDatabase(id){
-	connection.query('DELETE FROM Products WHERE ItemID = ' + ItemID);
+	connection.query('DELETE FROM Products WHERE ItemID = ' + id);
 	displayAll();
 };
 
