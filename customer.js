@@ -49,13 +49,14 @@ function inquireForPurchase() {
 function purchaseFromDatabase(ID, quantityNeeded) {
 	connection.query('SELECT * FROM Products WHERE ItemID = ' + ID, function(error, response) {
 		if (error) { console.log(error) };
-	//In stock
-		if (quantityNeeded <= response[0].StockQuantity)
-	//Cost
+
+		//In stock
+		if (quantityNeeded <= response[0].StockQuantity) {
+		//Cost
 			var totalCost = response[0].Price * quantityNeeded;
 			console.log("Congratulations on your purchase! Please come back soon!");
 			console.log("The total cost for " + quantityNeeded + " " + response[0].ProductName + " is " + totalCost + ".");
-	//Update current stock
+		//Update current stock
 			connection.query('UPDATE Products SET StockQuantity = StockQuantity - ' + quantityNeeded + ' WHERE ItemID = ' + ID);
 		} else {
 			console.log("Sorry, " + response[0].ProductName + " is currently out of stock.");
