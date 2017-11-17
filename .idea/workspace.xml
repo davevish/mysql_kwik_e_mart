@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aec0de7a-10ad-47bd-935b-e20c5dd1e6db" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ansi-escapes/package.json" afterPath="$PROJECT_DIR$/node_modules/ansi-escapes/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ansi-regex/package.json" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bignumber.js/package.json" afterPath="$PROJECT_DIR$/node_modules/bignumber.js/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/chalk/package.json" afterPath="$PROJECT_DIR$/node_modules/chalk/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cli-cursor/package.json" afterPath="$PROJECT_DIR$/node_modules/cli-cursor/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cli-table/package.json" afterPath="$PROJECT_DIR$/node_modules/cli-table/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cli-width/package.json" afterPath="$PROJECT_DIR$/node_modules/cli-width/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/color-convert/package.json" afterPath="$PROJECT_DIR$/node_modules/color-convert/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/color-convert/route.js" afterPath="$PROJECT_DIR$/node_modules/color-convert/route.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/color-name/package.json" afterPath="$PROJECT_DIR$/node_modules/color-name/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/colors/package.json" afterPath="$PROJECT_DIR$/node_modules/colors/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/core-util-is/package.json" afterPath="$PROJECT_DIR$/node_modules/core-util-is/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/external-editor/package.json" afterPath="$PROJECT_DIR$/node_modules/external-editor/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/figures/package.json" afterPath="$PROJECT_DIR$/node_modules/figures/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/has-flag/package.json" afterPath="$PROJECT_DIR$/node_modules/has-flag/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/package.json" afterPath="$PROJECT_DIR$/node_modules/iconv-lite/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inherits/package.json" afterPath="$PROJECT_DIR$/node_modules/inherits/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/README.md" afterPath="$PROJECT_DIR$/node_modules/inquirer/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/inquirer.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/inquirer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/objects/choice.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/objects/choice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/objects/choices.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/objects/choices.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/objects/separator.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/objects/separator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/base.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/base.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/checkbox.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/checkbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/confirm.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/confirm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/editor.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/editor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/expand.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/expand.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/input.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/input.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/list.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/list.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/password.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/password.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/rawlist.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/rawlist.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/ui/baseUI.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/ui/baseUI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/ui/bottom-bar.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/ui/bottom-bar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/ui/prompt.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/ui/prompt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/events.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/paginator.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/paginator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/readline.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/readline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/screen-manager.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/screen-manager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/utils.js" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/inquirer/package.json" afterPath="$PROJECT_DIR$/node_modules/inquirer/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/is-fullwidth-code-point/package.json" afterPath="$PROJECT_DIR$/node_modules/is-fullwidth-code-point/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/is-promise/package.json" afterPath="$PROJECT_DIR$/node_modules/is-promise/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/isarray/package.json" afterPath="$PROJECT_DIR$/node_modules/isarray/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/.npmignore" afterPath="$PROJECT_DIR$/node_modules/jschardet/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/CONTRIBUTORS" afterPath="$PROJECT_DIR$/node_modules/jschardet/CONTRIBUTORS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/LICENSE" afterPath="$PROJECT_DIR$/node_modules/jschardet/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/README.md" afterPath="$PROJECT_DIR$/node_modules/jschardet/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/dist/jschardet.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/dist/jschardet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/dist/jschardet.min.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/dist/jschardet.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/index.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/package.json" afterPath="$PROJECT_DIR$/node_modules/jschardet/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/big5freq.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/big5freq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/big5prober.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/big5prober.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/chardistribution.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/chardistribution.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/charsetgroupprober.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/charsetgroupprober.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/charsetprober.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/charsetprober.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/codingstatemachine.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/codingstatemachine.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/constants.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/constants.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/escprober.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/escprober.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/escsm.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/escsm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/eucjpprober.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/eucjpprober.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/euckrfreq.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/euckrfreq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/euckrprober.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/euckrprober.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/euctwfreq.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/euctwfreq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/euctwprober.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/euctwprober.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/gb2312freq.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/gb2312freq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/gb2312prober.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/gb2312prober.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/hebrewprober.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/hebrewprober.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/index.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/init.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/jisfreq.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/jisfreq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/jpcntx.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/jpcntx.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/langbulgarianmodel.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/langbulgarianmodel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/langcyrillicmodel.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/langcyrillicmodel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/langgreekmodel.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/langgreekmodel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/langhebrewmodel.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/langhebrewmodel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/langhungarianmodel.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/langhungarianmodel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/langthaimodel.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/langthaimodel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/latin1prober.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/latin1prober.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/mbcharsetprober.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/mbcharsetprober.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/mbcsgroupprober.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/mbcsgroupprober.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/mbcssm.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/mbcssm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/sbcharsetprober.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/sbcharsetprober.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/sbcsgroupprober.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/sbcsgroupprober.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/sjisprober.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/sjisprober.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/universaldetector.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/universaldetector.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/src/utf8prober.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/src/utf8prober.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/tests/index.html" afterPath="$PROJECT_DIR$/node_modules/jschardet/tests/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/tests/jschardet.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/tests/jschardet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/tests/qunit/qunit.css" afterPath="$PROJECT_DIR$/node_modules/jschardet/tests/qunit/qunit.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jschardet/tests/qunit/qunit.js" afterPath="$PROJECT_DIR$/node_modules/jschardet/tests/qunit/qunit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lodash/package.json" afterPath="$PROJECT_DIR$/node_modules/lodash/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mimic-fn/package.json" afterPath="$PROJECT_DIR$/node_modules/mimic-fn/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mute-stream/package.json" afterPath="$PROJECT_DIR$/node_modules/mute-stream/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mysql/package.json" afterPath="$PROJECT_DIR$/node_modules/mysql/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/onetime/package.json" afterPath="$PROJECT_DIR$/node_modules/onetime/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/os-tmpdir/package.json" afterPath="$PROJECT_DIR$/node_modules/os-tmpdir/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" afterPath="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/readable-stream/package.json" afterPath="$PROJECT_DIR$/node_modules/readable-stream/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/restore-cursor/package.json" afterPath="$PROJECT_DIR$/node_modules/restore-cursor/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/run-async/package.json" afterPath="$PROJECT_DIR$/node_modules/run-async/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rx-lite-aggregates/package.json" afterPath="$PROJECT_DIR$/node_modules/rx-lite-aggregates/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rx-lite/package.json" afterPath="$PROJECT_DIR$/node_modules/rx-lite/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/safe-buffer/package.json" afterPath="$PROJECT_DIR$/node_modules/safe-buffer/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/signal-exit/package.json" afterPath="$PROJECT_DIR$/node_modules/signal-exit/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlstring/package.json" afterPath="$PROJECT_DIR$/node_modules/sqlstring/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/string-width/package.json" afterPath="$PROJECT_DIR$/node_modules/string-width/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/string_decoder/package.json" afterPath="$PROJECT_DIR$/node_modules/string_decoder/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/strip-ansi/package.json" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/supports-color/package.json" afterPath="$PROJECT_DIR$/node_modules/supports-color/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/through/package.json" afterPath="$PROJECT_DIR$/node_modules/through/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/tmp/package.json" afterPath="$PROJECT_DIR$/node_modules/tmp/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/util-deprecate/package.json" afterPath="$PROJECT_DIR$/node_modules/util-deprecate/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SQL Script" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/kwik_e_mart.js" />
+        <option value="$PROJECT_DIR$/productsDB.sql" />
+        <option value="$PROJECT_DIR$/customer.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/apu.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="701" />
+    <option name="y" value="-62" />
+    <option name="width" value="1440" />
+    <option name="height" value="832" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mysql_kwik_e_mart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysql_kwik_e_mart" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aec0de7a-10ad-47bd-935b-e20c5dd1e6db" name="Default" comment="" />
+      <created>1509410658877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509410658877</updated>
+      <workItem from="1509410661201" duration="3248000" />
+      <workItem from="1509416962165" duration="672000" />
+      <workItem from="1509476141997" duration="1202000" />
+      <workItem from="1509586694190" duration="3386000" />
+      <workItem from="1509752856639" duration="388000" />
+      <workItem from="1509753692479" duration="2084000" />
+      <workItem from="1509756052324" duration="672000" />
+      <workItem from="1510892066482" duration="525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12177000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15171504" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913166" sideWeight="0.50572246" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287277" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31652662" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913166" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/1c010589/42cd64ea-c19a-4665-89af-b8cf3249f9ab/Kwik_E_Mart.Products" />
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwik_e_mart.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/42cd64ea-c19a-4665-89af-b8cf3249f9ab/console.sql" />
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/1c010589/42cd64ea-c19a-4665-89af-b8cf3249f9ab/Kwik_E_Mart.Products" />
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="113" lean-forward="true" selection-start-line="15" selection-start-column="113" selection-end-line="15" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwik_e_mart.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwik_e_mart.js" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/42cd64ea-c19a-4665-89af-b8cf3249f9ab/console.sql" />
+    <entry file="das://table:/1c010589/42cd64ea-c19a-4665-89af-b8cf3249f9ab/Kwik_E_Mart.Products" />
+    <entry file="file://$PROJECT_DIR$/productsDB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-920">
+          <caret line="18" column="47" lean-forward="false" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1840">
+          <caret line="46" column="2" lean-forward="false" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
