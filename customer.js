@@ -17,8 +17,7 @@ function displayAll() {
 			head: ['Item ID', 'Product Name', 'Category', 'Price', 'Quantity'],
 			colWidths: [10, 30, 18, 10, 14]
 		});
-
-		for (i = 0; i < response.length; i++) {
+		for (var i = 0; i < response.length; i++) {
 			theDisplayTable.push(
 				[response[i].ItemID, response[i].ProductName, response[i].DepartmentName, response[i].Price, response[i].StockQuantity]
 			);
